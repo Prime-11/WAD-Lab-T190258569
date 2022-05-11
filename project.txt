@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Butterfly</h2>
+<img src="bfly.jpg" alt="butterfly" style="width:100%">
+
+</body>
+</html>
